@@ -3,4 +3,8 @@ Android Application for text emotion detection using gemini
 
 
 ## Demo Video
-<video src="android_demo_video.mp4" controls title="Title"></video>
+
+
+https://github.com/user-attachments/assets/7859f854-43c1-4265-afda-3e74bb9dcded
+
+
