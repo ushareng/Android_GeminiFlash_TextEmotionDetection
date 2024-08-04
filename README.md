@@ -1,6 +1,4 @@
-# Android-app-gemini
-Android Application for text emotion detection using gemini
-
+# Android Application for Text Emotion detection using Gemini Flash
 
 ## Demo Video
 
