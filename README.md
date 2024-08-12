@@ -1,7 +1,10 @@
 # Android Application for Text Emotion detection using Gemini Flash
 
-## Demo Video
+# Usecase :
 
+Difficulty understanding emotions in multiple modalities like Face , Speech and Text forms important markers in the diagnosis of Autism spectrum Disorder(ASD) . This project aims to help autistic individuals identify emotions in text using Gemini .
+
+## Demo Video
 
 https://github.com/user-attachments/assets/7859f854-43c1-4265-afda-3e74bb9dcded
 
